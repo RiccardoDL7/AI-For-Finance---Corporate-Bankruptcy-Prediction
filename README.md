@@ -17,7 +17,6 @@
 |Precision        |**70.4%**                      |
 |Recall           |**54.3%**                      |
 |F1 Score         |**0.545**                      |
-|Final grade      |**30 e lode** (Italian maximum)|
 
 -----
 
